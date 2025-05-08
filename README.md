@@ -1,4 +1,5 @@
 # CryptoFilter App
+![Image](https://github.com/user-attachments/assets/c402430a-cc32-46be-84cb-c7d50aaa30be)
 
 A mobile application that filters cryptocurrency perpetual trading pairs based on technical indicators and market data. Built with Python for data processing and Android (Kotlin/Jetpack Compose) for UI.
 
